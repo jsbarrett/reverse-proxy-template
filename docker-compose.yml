@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  reverse-proxy:
+    image: reverse-proxy
+    ports:
+      - "80:80"
+  app1:
+    image: app1
+  app2:
+    image: app2
