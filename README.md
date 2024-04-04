@@ -8,6 +8,9 @@ This template project is about getting setup quickly to run a proxy to multiple 
 
 Docker Engine (can find installation instructions here: https://docs.docker.com/engine/install/)
 I use Ubuntu pretty consistently so will include the current instructions for distro here:
+If you have cloned this repo, you can just run using the script `./install-docker.sh`
+
+Otherwise you can copy-paste the below:
 
 ```
 # Add Docker's official GPG key:
